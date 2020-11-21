@@ -21,4 +21,5 @@ if not, run the following commands before running the project.
 ```
 pip install tensorflow
 pip install opencv-python
+pip install keras
 ```
