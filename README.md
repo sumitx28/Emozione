@@ -1,4 +1,4 @@
-# Emozione
+# Emozione | 3rd Semester Project
 
 ## Table of contents
 * [General info](#general-info)
